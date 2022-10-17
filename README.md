@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sqocketdev
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning website development 
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 How to reach me via sqocket.lol
